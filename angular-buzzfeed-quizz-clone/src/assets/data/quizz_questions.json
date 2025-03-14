@@ -1,0 +1,81 @@
+{
+  "title": "Qual role você seria no Valorant?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual estilo de jogo combina mais com você?",
+      "options": [
+        { "id": 1, "name": "Entrar no Bombsite eliminando inimigos", "alias": "D" },
+        { "id": 2, "name": "Criar jogadas inteligentes para a equipe", "alias": "C" },
+        { "id": 3, "name": "Dar informações e atrapalhar os inimigos", "alias": "I" },
+        { "id": 4, "name": "Defender o bombsite, segurar avanços e jogar costinhas", "alias": "S" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "O que você faz quando o round começa?",
+      "options": [
+        { "id": 1, "name": "Já sai avançando e buscando abates", "alias": "D" },
+        { "id": 2, "name": "Pensa em como dificultar a visão e rota do inimigo", "alias": "C" },
+        { "id": 3, "name": "Prepara uma skill para abrir espaço para o time", "alias": "I" },
+        { "id": 4, "name": "Coloca armadilhas ou segura uma posição sozinho", "alias": "S" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Seus amigos te descrevem como:",
+      "options": [
+        { "id": 1, "name": "Agressivo e confiante", "alias": "D" },
+        { "id": 2, "name": "Estratégico e paciente", "alias": "C" },
+        { "id": 3, "name": "Sempre dando informações e ajudando o time", "alias": "I" },
+        { "id": 4, "name": "Cauteloso e defensivo", "alias": "S" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual dessas habilidades você gostaria de ter?",
+      "options": [
+        { "id": 1, "name": "Algo que te ajude a rushar mais rápido para cima do inimigo e finalizá-lo", "alias": "D" },
+        { "id": 2, "name": "Levantar uma parede de fumaça e isolar áreas", "alias": "C" },
+        { "id": 3, "name": "Lançar uma flash ou drone para pegar info", "alias": "I" },
+        { "id": 4, "name": "Colocar uma torreta ou trap para segurar um bomb", "alias": "S" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual sua mentalidade na partida?",
+      "options": [
+        { "id": 1, "name": "Confio na minha mira, então vou pro tudo ou nada", "alias": "D" },
+        { "id": 2, "name": "Prefiro jogar pelo time e criar oportunidades", "alias": "C" },
+        { "id": 3, "name": "Gosto de atrapalhar os inimigos e dar vantagem pro time, com minhas habilidades", "alias": "I" },
+        { "id": 4, "name": "Minha prioridade é garantir que o bombsite esteja seguro", "alias": "S" }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Você prefere jogar em qual momento do round?",
+      "options": [
+        { "id": 1, "name": "No começo, tentando pegar o primeiro abate", "alias": "D" },
+        { "id": 2, "name": "No meio do round, ajudando a decidir a jogada", "alias": "C" },
+        { "id": 3, "name": "Na transição, abrindo espaço para o time", "alias": "I" },
+        { "id": 4, "name": "No final, garantindo que o site esteja protegido", "alias": "S" }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Se você tivesse que escolher um agente para jogar o tempo todo, ele seria:",
+      "options": [
+        { "id": 1, "name": "Jett ou Raze", "alias": "D" },
+        { "id": 2, "name": "Clove ou Omen", "alias": "C" },
+        { "id": 3, "name": "Sova ou Gekko", "alias": "I" },
+        { "id": 4, "name": "Killjoy ou Cypher", "alias": "S" }
+      ]
+    }
+  ],
+  "results": {
+    "D": "Você seria um Duelista! Seu papel é abrir o bombsite e buscar eliminações rápidas.",
+    "C": "Você seria um Controlador! Seu foco é controlar espaços e criar vantagem para o time.",
+    "I": "Você seria um Iniciador! Sua missão é dar informações e abrir espaço para o time.",
+    "S": "Você seria um Sentinela! Seu papel é defender bombsites e segurar avanços inimigos."
+  }
+}
