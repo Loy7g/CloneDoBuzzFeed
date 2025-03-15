@@ -37,6 +37,3 @@ O projeto consiste em um quiz dinâmico, onde o usuário responde perguntas e ob
 
 
 
-## ✨ Autor
-
-Projeto desenvolvido por **Maximus** durante o bootcamp da **DIO**.
